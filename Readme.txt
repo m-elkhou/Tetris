@@ -10,3 +10,14 @@ Notre objectif est de concevoir et de mettre en place une application Desktop pr
 L’ensemble de ces informations ont été traité et analysé en utilisant :
 
 Un model conceptuel de données(UML). -Développent des applications par des langages Java. Enfin la mise en place des applications par les langages JAVA en se basant sur SWING et AWT.
+
+CopyRight:
+
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗     ███████╗██╗         ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗    ██╔════╝██║         ██║ ██╔╝██║  ██║██╔═══██╗██║   ██║
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║    █████╗  ██║         █████╔╝ ███████║██║   ██║██║   ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║    ██╔══╝  ██║         ██╔═██╗ ██╔══██║██║   ██║██║   ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝    ███████╗███████╗    ██║  ██╗██║  ██║╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
+
+m.elkhou@hotmail.com
