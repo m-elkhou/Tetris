@@ -1,5 +1,6 @@
 # Tetris
-Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : ‘’TETRIS’’
+Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
+
 ==> https://github.com/m-elkhou/Tetris.git
 
 Le travail présenté dans ce Projet a été effectué dans le cadre de la préparation de la licence fondamentale en filière Science Mathématique et informatique à la faculté des sciences Dhar El Mehraz.
