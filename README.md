@@ -1,7 +1,7 @@
 # Tetris
 Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
 
-==> https://github.com/m-elkhou/Tetris.git
+![](https://i.imgur.com/8BDdrGal.png)
 
 Le travail présenté dans ce Projet a été effectué dans le cadre de la préparation de la licence fondamentale en filière Science Mathématique et informatique à la faculté des sciences Dhar El Mehraz.
 
@@ -15,10 +15,7 @@ L’ensemble de ces informations ont été traité et analysé en utilisant :
 - Développent des applications par des langages Java. 
 - Enfin la mise en place des applications par les langages JAVA en se basant sur SWING et AWT.
 
-CopyRight:
-
-╔╦╗┌─┐┬ ┬┌─┐┌┬┐┌┬┐┌─┐┌┬┐  ╔═╗╦    ╦╔═╦ ╦╔═╗╦ ╦<br />
-║║║│ │├─┤├─┤││││││├┤  ││  ║╣ ║    ╠╩╗╠═╣║ ║║ ║<br />
-╩ ╩└─┘┴ ┴┴ ┴┴ ┴┴ ┴└─┘─┴┘  ╚═╝╩═╝  ╩ ╩╩ ╩╚═╝╚═╝
-
-m.elkhou@hotmail.com
+### Links
+- [E-mail](m.elkhou@hotmail.com)
+- [GitHub](https://github.com/m-elkhou)
+- [Linkedin](https://www.linkedin.com/in/m-elkhou/)
