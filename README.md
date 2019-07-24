@@ -1,3 +1,5 @@
+<img src="src/Game/img/Tetris-logo1.png" align="right" />
+
 # Tetris
 Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
 
@@ -14,8 +16,13 @@ L’ensemble de ces informations ont été traité et analysé en utilisant :
 - Enfin la mise en place des applications par les langages JAVA en se basant sur SWING et AWT.
 
 ![](https://i.imgur.com/8BDdrGal.png)
+
+For more information about the project please read this [ file]().
+
+Screenshots of the application can be found in the [Wiki page](https://github.com/m-elkhou/Tetris/wiki).
+
 ***
 ### Links
-- [E-mail](m.elkhou@hotmail.com)
+- [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
 - [GitHub](https://github.com/m-elkhou)
 - [Linkedin](https://www.linkedin.com/in/m-elkhou/)
