@@ -1,7 +1,7 @@
 <img src="src/Game/img/Tetris-logo1.png" align="right" width="300"/>
 
 # Tetris
-Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
+> Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
 
 Le travail présenté dans ce Projet a été effectué dans le cadre de la préparation de la licence fondamentale en filière Science Mathématique et informatique à la faculté des sciences Dhar El Mehraz.
 
