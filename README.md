@@ -1,4 +1,4 @@
-<img src="src/Game/img/Tetris-logo1.png" align="right" />
+<img src="src/Game/img/Tetris-logo1.png" align="right" width="300"/>
 
 # Tetris
 Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
@@ -17,7 +17,8 @@ L’ensemble de ces informations ont été traité et analysé en utilisant :
 
 ![](https://i.imgur.com/8BDdrGal.png)
 
-For more information about the project please read this [ file]().
+For more information about the project please read this [pdf file](https://github.com/m-elkhou/Tetris/blob/master/Rapport/Rapport_Final.pdf)<br/>
+or this [PowerPoint file](https://github.com/m-elkhou/Tetris/blob/master/Presentation.pptx).
 
 Screenshots of the application can be found in the [Wiki page](https://github.com/m-elkhou/Tetris/wiki).
 
