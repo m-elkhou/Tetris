@@ -14,7 +14,9 @@ All of this information was processed and analyzed using:
 - A conceptual model of data (**UML**). 
 - the implementation of applications by **JAVA** languages based on **SWING** and **AWT**.
 
-![](https://i.imgur.com/8BDdrGal.png)
+<img src="Screenshots/1.png" align="center" height="410" width="640"/>
+<img src="Screenshots/0.png" align="center" height="410" width="640"/>
+<br/>
 
 For more information about the project please read this [pdf file](https://github.com/m-elkhou/Tetris/blob/master/Rapport/Rapport_Final.pdf)<br/>
 or this [PowerPoint file](https://github.com/m-elkhou/Tetris/blob/master/Presentation.pptx).
