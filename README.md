@@ -1,19 +1,18 @@
 <img src="src/Game/img/Tetris-logo1.png" align="right" width="300"/>
 
 # Tetris
-> Application Desktop : Conception et Développement d’un jeu vidéo en JAVA : "TETRIS".
+> Desktop Application: Design and Development of a video game in JAVA : "**TETRIS**".
 
-Le travail présenté dans ce Projet a été effectué dans le cadre de la préparation de la licence fondamentale en filière Science Mathématique et informatique à la faculté des sciences Dhar El Mehraz.
+The work presented in this project was carried out as part of the preparation of the basic degree in Science Mathematics and Computer Science at the Faculty of Science Dhar El Mehraz.
 
-Le travail présenté dans cette mémoire s’inscrit dans le contexte d’un jeu vidéo : TETRIS. Tetris est un type de jeu vidéo basé sur la réflexion. Son nom provient du puzzle, jeu consistant à mettre en ordre des pièces. Il se différencie des autres jeux de réflexion en contenant invariablement des pièces ou des objets à placer d'une façon ou dans un ordre précis.
+is in the context of a video game : **TETRIS**; is a video game developed in the Soviet Union in 1984. The game has a simple goal of destroying lines of block before it reaches the top. The line is made up of of a square block. Tetrominoes is the shape of the 4 connected blocks that falls vertically down. The player will have to use the tetrominos to create lines that fill the box horizontally, this will clear the lines of blocks. The game continues, the lines of blocks that is not completely filled will drop down as many lines that were cleared. The game has levels of difficulties which rises as the game is being played.
 
-Notre objectif est de concevoir et de mettre en place une application Desktop présente un jeu vidéo Et de définir des méthodes et des interfaces graphiques simples à l’utilisation pour interagir avec notre jeu, s’amuser et en même temps développer l’esprit.
+Our goal is to design and implement a desktop application that presents a video game and to define simple methods and graphical interfaces to use to interact with our game, have fun and at the same time develop the spirit.
 
-L’ensemble de ces informations ont été traité et analysé en utilisant :
+All of this information was processed and analyzed using:
 
-- Un model conceptuel de données(UML). 
-- Développent des applications par des langages Java. 
-- Enfin la mise en place des applications par les langages JAVA en se basant sur SWING et AWT.
+- A conceptual model of data (**UML**). 
+- the implementation of applications by **JAVA** languages based on **SWING** and **AWT**.
 
 ![](https://i.imgur.com/8BDdrGal.png)
 
